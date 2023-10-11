@@ -3,8 +3,8 @@ import './bd stor/bdcss.css';
 
 
 
-const Bdstor=(props)=>{
-    const {image,title,prize,rating,desc}=props;
+const Bdstor=(prop)=>{
+    const {image,title,prize,rating,desc}=prop;
 
     return(
         <>
