@@ -1,0 +1,65 @@
+[
+    {
+        "image":"../../../public/img/1.jpeg",
+        "title":"Warm T-shirt",
+        "prize":"$109",
+        "rating":"4.5",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/2.jpeg",
+        "title":"casual comfortable set",
+        "prize":"$200",
+        "rating":"4.3",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/3.jpeg",
+        "title":"Warm T-shirt2",
+        "prize":"$65",
+        "rating":"4.6",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/4.jpeg",
+        "title":"Colorfull T-shirt",
+        "prize":"$129",
+        "rating":"4.2",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/5.jpeg",
+        "title":"Warm simple T-shirt",
+        "prize":"$230",
+        "rating":"4.0",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/6.jpeg",
+        "title":"clasic T-shirt",
+        "prize":"$105",
+        "rating":"4.1",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/7.jpeg",
+        "title":"Designfull pant",
+        "prize":"$180",
+        "rating":"4.7",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/8.jpeg",
+        "title":"Formal denim pant",
+        "prize":"$145",
+        "rating":"4.8",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    },
+    {
+        "image":"../../../public/img/9.jpeg",
+        "title":"Formal T-shirt",
+        "prize":"$55",
+        "rating":"4.4",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. "
+    }
+]
